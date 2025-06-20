@@ -1,6 +1,6 @@
 # Performance evaluation datasets
 
-This folder contains the index files for performance evaluation runs. Files udner this folder were previosly stored in https://github.com/eembc/energyrunner/tree/main/datasets
+This folder contains the index files for performance evaluation runs. Files under this folder were previosly stored in https://github.com/eembc/energyrunner/tree/main/datasets
 
 # File Specifics
 
